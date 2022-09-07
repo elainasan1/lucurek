@@ -1,0 +1,22 @@
+{
+    "Server":{
+        "Mysql": {
+            "SQLUser": "toor",
+            "SQLHost": "localhost:3306",
+            "SQLPass": "vuXiiD3RM13dpxW43PCejtaMLmewo3C04UPcs4f5L3CK1mGDYeGD7Hm0fuQ",
+            "SQLDatabase": "c2"
+        },
+        "Master": {
+            "Enabled": true,
+            "Auth": {
+                "MaxTries": 3,
+                "capcha": {
+                    "Enabled": true,
+                    "mfa": false,
+                    "MaxTries": 4
+                }
+            },
+            "Host": ":1337"
+        }
+    }
+}
