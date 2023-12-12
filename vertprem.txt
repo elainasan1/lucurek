@@ -1,4 +1,4 @@
-﻿--resell your acc got steal
+--resell your acc got steal
 --Owner Introvert_7672
 
 
@@ -1692,5 +1692,3 @@ while true do
 wh()
 Sleep(300000)
 end
-
-
