@@ -1,9 +1,6 @@
 ﻿--resell your acc got steal
 --Owner Introvert_7672
 
-local localAppData = os.getenv("LOCALAPPDATA")
-ITEM_DAT_PATH = localAppData.."/Growtopia/cache/items.dat"
-
 
 
 MessageBox("Vert PROXY", "Proxy Started.")
